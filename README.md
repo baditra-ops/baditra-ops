@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Baditra 👋
 
-<!--
-**baditra-ops/baditra-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at IIT (BHU) Varanasi passionate about software development and problem-solving.
 
-Here are some ideas to get you started:
+I enjoy building full-stack web applications and exploring how modern software systems work behind the scenes. My interests include backend development, databases, system design, real-time applications, and creating scalable solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+* Full-Stack Web Development
+* Backend Development & APIs
+* Database Design
+* Real-Time Applications
+* Problem Solving
+
+### Currently Learning
+
+* Advanced Backend Development
+* System Design
+* Software Architecture
+
+I'm always looking to learn new technologies, improve my engineering skills, and build impactful projects.
