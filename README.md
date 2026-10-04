@@ -8,7 +8,6 @@ I enjoy building full-stack web applications and exploring how modern software s
 
 * Full-Stack Web Development
 * Backend Development & APIs
-* Database Design
 * Real-Time Applications
 * Problem Solving
 
